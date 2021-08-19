@@ -1,1 +1,2 @@
-este es el documentgo 1
+este es el documento 1
+Ahora editaremos de neuvo el documento1
